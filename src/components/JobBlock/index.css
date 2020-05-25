@@ -1,0 +1,55 @@
+.JobBlock {
+  display: flex;
+  flex-direction: column;
+  width: 296px;
+}
+
+.JobHeader {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+}
+
+.JobBlock u {
+  list-style: none;
+  padding: 0;
+}
+
+.border {
+  border-right: 4px solid var(--white);
+}
+
+.p {
+  text-align: left;
+}
+
+.JobDescription {
+  width: 296px;
+}
+
+.Left {
+  padding-left: 15px;
+}
+
+.Right {
+  padding-right: 15px;
+}
+
+.Center {
+  padding: 0px 15px;
+}
+
+.flexStart {
+  flex: 1;
+}
+
+.flexCenter {
+  flex: 1.2;
+  align-items: center;
+}
+
+.flexEnd {
+  flex: 1;
+  align-items: flex-end;
+}

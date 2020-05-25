@@ -1,0 +1,17 @@
+.Separator {
+  height: 4px;
+  background: var(--white);
+  border: none;
+  /* position: relative; */
+}
+
+.Separator:before {
+  content: '';
+  /* display: flex;
+  align-items: center; */
+  width: 72px;
+  height: 10px;
+  background: var(--green);
+  display: block;
+  transform: translateY(-4px);
+}

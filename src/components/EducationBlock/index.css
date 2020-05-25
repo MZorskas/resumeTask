@@ -1,0 +1,12 @@
+.line {
+  height: 4px;
+  background: var(--white);
+  border: none;
+  width: 50%;
+  margin-left: 0;
+}
+
+.EducationBlock {
+  display: flex;
+  flex-direction: column;
+}

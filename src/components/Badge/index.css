@@ -1,0 +1,20 @@
+.Badge {
+  float: left;
+  clear: both;
+  background: grey;
+  padding: 0 10px;
+  border-radius: 15px;
+  margin: 5px 0px;
+}
+
+.Red {
+  background-color: #c29486;
+}
+
+.Green {
+  background-color: var(--green);
+}
+
+.Yellow {
+  background-color: #d8da79;
+}
