@@ -1,0 +1,169 @@
+{
+  "en": {
+    "header": {
+      "title": "PROGRAMMER"
+    },
+    "links": {
+      "title": "Links"
+    },
+    "aboutMe": {
+      "title": "About me",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue egestas, dapibus justo et, lobortis ex. Nullam tortor diam, venenatis at enim a, lacinia porttitor erat. Vivamus tempor dictum leo id aliquam. Praesent elit lacus, tempus ac vehicula in, imperdiet dapibus elit. Nullam scelerisque euismod leo id vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam."
+    },
+    "education": {
+      "title": "Education",
+      "schools": [
+        {
+          "schoolName": "School name",
+          "year": "2006-2010",
+          "degree": "Degree1"
+        },
+        {
+          "schoolName": "School name",
+          "year": "2006-2010",
+          "degree": "Degree2"
+        }
+      ]
+    },
+    "personalSkills": {
+      "title": "Personal Skills",
+      "skills": [
+        {
+          "name": "TEAMWORK"
+        },
+        {
+          "name": "COMMUNICATION"
+        },
+        {
+          "name": "ORGANIZATION"
+        }
+      ]
+    },
+    "technicalSkills": {
+      "title": "Technical Skills"
+    },
+    "workExperience": {
+      "title": "Work experience",
+      "jobs": [
+        {
+          "position": "JOB POSITION",
+          "company": "Company",
+          "period": "2018-present",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue.",
+          "achievements": ["Lorem ipsum dolor", "Consectetur adipiscing elit"]
+        },
+        {
+          "position": "JOB POSITION",
+          "company": "Company",
+          "period": "2018-present",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue.",
+          "achievements": ["Lorem ipsum dolor", "Consectetur adipiscing elit"]
+        },
+        {
+          "position": "JOB POSITION",
+          "company": "Company",
+          "period": "2018-present",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue.",
+          "achievements": ["Lorem ipsum dolor", "Consectetur adipiscing elit"]
+        }
+      ]
+    },
+    "contactForm": [
+      {
+        "address": "ADDRESS",
+        "street": "Imaginary St.02",
+        "city": "Vilnius, Narnia"
+      },
+      {
+        "contact": "CONTACT",
+        "phoneNumber": "+370600000333",
+        "email": "email@nest.dev"
+      },
+      {
+        "social": "SOCIAL"
+      }
+    ]
+  },
+  "lt": {
+    "header": {
+      "title": "PROGRAMUOTOJAS"
+    },
+    "links": {
+      "title": "Nuorodos"
+    },
+    "aboutMe": {
+      "title": "Apie Mane",
+      "content": "Lietuviskas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue egestas, dapibus justo et, lobortis ex. Nullam tortor diam, venenatis at enim a, lacinia porttitor erat. Vivamus tempor dictum leo id aliquam. Praesent elit lacus, tempus ac vehicula in, imperdiet dapibus elit. Nullam scelerisque euismod leo id vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam."
+    },
+    "education": {
+      "title": "Išsilavinimas",
+      "schools": [
+        {
+          "schoolName": "Mokyklos pavadinimas",
+
+          "degree": "Laipsnis"
+        },
+        {
+          "schoolName": "Mokyklos pavadinimas",
+
+          "degree": "Laipsnis"
+        }
+      ]
+    },
+    "personalSkills": {
+      "title": "Asmeniniai įgūdžiai",
+      "skills": [
+        {
+          "name": "KOMANDINIS DARBAS"
+        },
+        {
+          "name": "KOMUNIKACIJA"
+        },
+        {
+          "name": "ORGANIZUOTUMAS"
+        }
+      ]
+    },
+    "technicalSkills": {
+      "title": "Techniniai įgūdžiai"
+    },
+    "workExperience": {
+      "title": "Darbo patirtis",
+      "jobs": [
+        {
+          "position": "DARBO POZICIJA",
+          "company": "Kompanijos pavadinimas",
+          "period": "2018-iki dabar",
+          "content": "Lietuviškas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue.",
+          "achievements": ["Pasiekimas1", "Pasiekimas2"]
+        },
+        {
+          "position": "DARBO POZICIJA",
+          "company": "Kompanijos pavadinimas",
+          "period": "2018-iki dabar",
+          "content": "Lietuviškas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue.",
+          "achievements": ["Pasiekimas1", "Pasiekimas2"]
+        },
+        {
+          "position": "DARBO POZICIJA",
+          "company": "Kompanijos pavadinimas",
+          "period": "2018- iki dabar",
+          "content": "Lietuviškas Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue.",
+          "achievements": ["Pasiekimas1", "Pasiekimas2"]
+        }
+      ]
+    },
+    "contactForm": [
+      {
+        "address": "ADRESAS",
+        "street": "Imaginary g.02"
+      },
+      {
+        "contact": "KONTAKTAI"
+      },
+      {
+        "social": "SOCIALINIAI"
+      }
+    ]
+  }
+}
